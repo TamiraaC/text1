@@ -1,0 +1,13 @@
+.button-black{
+    background-color: black;
+}
+.button-blue{
+    background-color: blue;
+}
+.img{
+    width: 20px;
+    height: 20px;
+}
+.displayNone{
+    display: none;
+}
